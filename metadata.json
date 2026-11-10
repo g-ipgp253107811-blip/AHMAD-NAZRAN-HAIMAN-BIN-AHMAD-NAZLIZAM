@@ -1,0 +1,6 @@
+{
+  "name": "Misi Taman Lestari: Pengembaraan Wira Alam",
+  "description": "Permainan pengembaraan 3D dunia terbuka pembelajaran Bahasa Melayu Tahun 3 (BBM) berteraskan Kelestarian Alam dan Standard Pembelajaran 2.2.1.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
